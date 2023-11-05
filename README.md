@@ -1,5 +1,5 @@
+![2023-11-05_13-36-14](https://github.com/srBob01/Chat/assets/126959812/e373fba2-2b0f-4cad-adcc-8ce237ddd8d2)
 
-![2023-11-04_20-33-35](https://github.com/srBob01/Chat/assets/126959812/631b4f10-1498-4a6e-8cad-c7869bb74de9)
 # Chat
 Чатик.
 
